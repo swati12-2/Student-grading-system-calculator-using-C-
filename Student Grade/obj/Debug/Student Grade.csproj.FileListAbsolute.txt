@@ -1,0 +1,10 @@
+C:\Users\sajuh\Desktop\Student Grade\obj\Debug\Student Grade.csproj.AssemblyReference.cache
+C:\Users\sajuh\Desktop\Student Grade\obj\Debug\Student_Grade.Form1.resources
+C:\Users\sajuh\Desktop\Student Grade\obj\Debug\Student_Grade.Properties.Resources.resources
+C:\Users\sajuh\Desktop\Student Grade\obj\Debug\Student Grade.csproj.GenerateResource.cache
+C:\Users\sajuh\Desktop\Student Grade\obj\Debug\Student Grade.csproj.CoreCompileInputs.cache
+C:\Users\sajuh\Desktop\Student Grade\bin\Debug\Student Grade.exe.config
+C:\Users\sajuh\Desktop\Student Grade\bin\Debug\Student Grade.exe
+C:\Users\sajuh\Desktop\Student Grade\bin\Debug\Student Grade.pdb
+C:\Users\sajuh\Desktop\Student Grade\obj\Debug\Student Grade.exe
+C:\Users\sajuh\Desktop\Student Grade\obj\Debug\Student Grade.pdb
